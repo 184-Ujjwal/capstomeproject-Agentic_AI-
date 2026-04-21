@@ -78,8 +78,7 @@ Search Tool: DuckDuckGo
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https:https://github.com/184-Ujjwal/capstomeproject-Agentic_AI-
 
 2️⃣ Create virtual environment
 
